@@ -11,4 +11,4 @@ def hmm():
     if helpers.get_answer():
         print(get_hmm())
 
-print("Hello Brussels")
+print("Hello New York in the snow!")
