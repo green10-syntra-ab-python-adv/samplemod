@@ -11,4 +11,4 @@ def hmm():
     if helpers.get_answer():
         print(get_hmm())
 
-print("Hello Antwerp in sunny weather!")
+print("Hello Antwerp in magnificent weather!")
